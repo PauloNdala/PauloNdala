@@ -53,7 +53,8 @@
 </p>
 
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=HackingWakanda&layout=wide&show_reply=off&show_retweet=off" />
-
+<div>
 ![Snake animation](https://github.com/PauloNdala/PauloNdala/blob/output/github-contribution-grid-snake.svg)
+ </div>
  
 
